@@ -5,16 +5,18 @@
 \
 \
 \
-Click below to see how automatic fixes on pull requests work:
+First, [enable GitHub Actions](/../../actions) on this repo.
+
+Then, click below to see how automatic fixes on pull requests work:
 
 [<img width="250" alt="Start a vulnerable pull request" src="https://app.mobb.ai/gh-action/pull-request-button.svg" />](/../../pull/new/introduce-new-security-issue)
 \
 \
 \
 This will let you start a pull request from branch `introduce-new-security-issue` to branch `main`.
-
+\
 Once the PR is created, CodeQL will automatically start a security scan and report an issue.
-
+\
 Mobb Fixer will immediately run and present a fix suggestion in the PR conversation tab.
 
 > [!TIP]
