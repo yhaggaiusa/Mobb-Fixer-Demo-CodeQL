@@ -5,7 +5,7 @@ Mobb Fixer monitors your pull requests for security issues and produces accurate
 \
 \
 \
-First, [enable GitHub Actions](/../../actions) on this repo.
+👉 First, [enable GitHub Actions](/../../actions) on this repo.
 
 Then, click below to see how automatic fixes on pull requests work:
 
